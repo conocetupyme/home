@@ -1867,41 +1867,6 @@ body {
 .cid-rnM3eHvjuE textarea.form-control {
   min-height: 188px;
 }
-.cid-rnM2CVZiW5 {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #e7dfc2;
-}
-.cid-rnM2CVZiW5 .title {
-  padding-bottom: 2.5rem;
-}
-.cid-rnM2CVZiW5 .mbr-text {
-  color: #767676;
-  margin: 0;
-  padding-top: 0.5rem;
-}
-.cid-rnM2CVZiW5 .iconfont-wrapper {
-  display: flex;
-  align-items: center;
-  width: 2.5rem;
-  height: 2.5rem;
-  margin-right: 2rem;
-}
-.cid-rnM2CVZiW5 .iconfont-wrapper .amp-iconfont {
-  font-size: 2.5rem;
-}
-.cid-rnM2CVZiW5 .wrapper {
-  display: flex;
-  padding: 1rem 0;
-}
-.cid-rnM2CVZiW5 .wrapper .b-info {
-  width: 100%;
-}
-@media (max-width: 767px) {
-  .cid-rnM2CVZiW5 .iconfont-wrapper {
-    display: none;
-  }
-}
 .cid-rnGiFiCX10 {
   padding-top: 15px;
   padding-bottom: 15px;
