@@ -1422,7 +1422,7 @@ body {
   padding-top: 2rem;
 }
 .cid-ro8dx7K2vW .mbr-text {
-  color: #767676;
+  color: #000000;
 }
 .cid-ro8dx7K2vW .card-wrapper {
   height: 100%;
@@ -1463,7 +1463,7 @@ body {
   padding-top: 2rem;
 }
 .cid-rokfZKf3KQ .mbr-text {
-  color: #767676;
+  color: #000000;
 }
 .cid-rokfZKf3KQ .card-wrapper {
   height: 100%;
@@ -1502,6 +1502,66 @@ body {
 }
 .cid-rnM3eHvjuE H2 {
   color: #232323;
+}
+.cid-rol9meX8ni {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rol9meX8ni .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rol9meX8ni .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rol9meX8ni .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rol9meX8ni .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rol9meX8ni .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-rol9meX8ni .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rol9meX8ni .mbr-gallery-item > div:hover:before {
+  opacity: 0 !important;
+}
+.cid-rol9meX8ni .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-rol9meX8ni .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
 }
 .cid-rnGiFiCX10 {
   padding-top: 15px;
